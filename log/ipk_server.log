@@ -1,0 +1,280 @@
+2021-02-12 22:36:47 srvguide/main.go:77 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 22:36:47 model/db.go:34 debug success connect to DB:race
+2021-02-12 22:36:47 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 22:37:51 srvguide/main.go:77 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 22:37:51 model/db.go:34 debug success connect to DB:race
+2021-02-12 22:37:51 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 22:43:33 srvguide/main.go:77 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 22:43:33 model/db.go:34 debug success connect to DB:race
+2021-02-12 22:43:33 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:22:38 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:22:38 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:22:38 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:23:05 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:23:05 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:23:05 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:23:19 srvguide/main.go:127 debug 1613143399518925000:7330 **************** Client :  127.0.0.1:50731  [ GET ]  /api/test  ****************
+2021-02-12 23:23:19 srvguide/main.go:129 debug 1613143399518925000:7330 request : [ /api/test ]  map[]
+2021-02-12 23:23:19 srvguide/main.go:164 debug 1613143399518925000:7330 **************** Cost Duration :  336.691µs  ****************
+
+2021-02-12 23:23:39 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:23:39 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:23:39 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:23:44 srvguide/main.go:127 debug 1613143424856425000:2329 **************** Client :  127.0.0.1:50747  [ GET ]  /api/test  ****************
+2021-02-12 23:23:44 srvguide/main.go:129 debug 1613143424856425000:2329 request : [ /api/test ]  map[]
+2021-02-12 23:23:44 srvguide/main.go:158 debug 1613143424856425000:2329 Response :  {"data":"","message":"ok","status":0}
+2021-02-12 23:23:44 srvguide/main.go:164 debug 1613143424856425000:2329 **************** Cost Duration :  484.187µs  ****************
+
+2021-02-12 23:24:30 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:24:30 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:24:30 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:25:26 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:25:26 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:25:26 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:25:35 srvguide/main.go:127 debug 1613143535760374000:1105 **************** Client :  127.0.0.1:50787  [ GET ]  /api/test  ****************
+2021-02-12 23:25:35 srvguide/main.go:129 debug 1613143535760374000:1105 request : [ /api/test ]  map[]
+2021-02-12 23:25:35 srvguide/main.go:164 debug 1613143535760374000:1105 **************** Cost Duration :  263.012µs  ****************
+
+2021-02-12 23:25:41 srvguide/main.go:127 debug 1613143541436118000:4271 **************** Client :  127.0.0.1:50787  [ GET ]  /api/racing  ****************
+2021-02-12 23:25:41 srvguide/main.go:129 debug 1613143541436118000:4271 request : [ /api/racing ]  map[]
+2021-02-12 23:25:41 srvguide/main.go:158 debug 1613143541436118000:4271 Response :  {"data":"","message":"ok","status":0}
+2021-02-12 23:25:41 srvguide/main.go:164 debug 1613143541436118000:4271 **************** Cost Duration :  464.022µs  ****************
+
+2021-02-12 23:26:36 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:26:36 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:26:36 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:26:44 srvguide/main.go:127 debug 1613143604922294000:5058 **************** Client :  127.0.0.1:50810  [ GET ]  /api/racing  ****************
+2021-02-12 23:26:44 srvguide/main.go:129 debug 1613143604922294000:5058 request : [ /api/racing ]  map[]
+2021-02-12 23:26:44 srvguide/main.go:164 debug 1613143604922294000:5058 **************** Cost Duration :  364.025µs  ****************
+
+2021-02-12 23:26:45 srvguide/main.go:127 debug 1613143605830281000:5518 **************** Client :  127.0.0.1:50810  [ GET ]  /api/racing  ****************
+2021-02-12 23:26:45 srvguide/main.go:129 debug 1613143605830281000:5518 request : [ /api/racing ]  map[]
+2021-02-12 23:26:45 srvguide/main.go:164 debug 1613143605830281000:5518 **************** Cost Duration :  201.898µs  ****************
+
+2021-02-12 23:26:46 srvguide/main.go:127 debug 1613143606040746000:116 **************** Client :  127.0.0.1:50810  [ GET ]  /api/racing  ****************
+2021-02-12 23:26:46 srvguide/main.go:129 debug 1613143606040746000:116 request : [ /api/racing ]  map[]
+2021-02-12 23:26:46 srvguide/main.go:164 debug 1613143606040746000:116 **************** Cost Duration :  189.761µs  ****************
+
+2021-02-12 23:26:50 srvguide/main.go:127 debug 1613143610870606000:1405 **************** Client :  127.0.0.1:50810  [ GET ]  /rest/v1/racing  ****************
+2021-02-12 23:26:50 srvguide/main.go:129 debug 1613143610870606000:1405 request : [ /rest/v1/racing ]  map[]
+2021-02-12 23:26:50 srvguide/main.go:158 debug 1613143610870606000:1405 Response :  {"data":"","message":"ok","status":0}
+2021-02-12 23:26:50 srvguide/main.go:164 debug 1613143610870606000:1405 **************** Cost Duration :  394.356µs  ****************
+
+2021-02-12 23:40:09 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:40:09 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:40:09 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:40:15 srvguide/main.go:127 debug 1613144415219099000:5292 **************** Client :  127.0.0.1:51017  [ GET ]  /rest/v1/racing  ****************
+2021-02-12 23:40:15 srvguide/main.go:129 debug 1613144415219099000:5292 request : [ /rest/v1/racing ]  map[]
+2021-02-12 23:40:15 srvguide/main.go:158 debug 1613144415219099000:5292 Response :  {"data":"","message":"Error 1054: Unknown column 'park_code' in 'field list'","status":1}
+2021-02-12 23:40:15 srvguide/main.go:164 debug 1613144415219099000:5292 **************** Cost Duration :  37.528883ms  ****************
+
+2021-02-12 23:40:35 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-12 23:40:35 model/db.go:34 debug success connect to DB:race
+2021-02-12 23:40:35 model/db.go:66 debug success connect to DB:DBCat
+2021-02-12 23:40:36 srvguide/main.go:127 debug 1613144436659235000:5345 **************** Client :  127.0.0.1:51027  [ GET ]  /rest/v1/racing  ****************
+2021-02-12 23:40:36 srvguide/main.go:129 debug 1613144436659235000:5345 request : [ /rest/v1/racing ]  map[]
+2021-02-12 23:40:36 srvguide/main.go:158 debug 1613144436659235000:5345 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":{"Time":"2021-02-12T23:39:40+08:00","Valid":true},"meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-12 23:40:36 srvguide/main.go:164 debug 1613144436659235000:5345 **************** Cost Duration :  12.689594ms  ****************
+
+2021-02-13 21:20:11 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:20:11 model/db.go:35 debug success connect to DB:race
+2021-02-13 21:20:11 model/db.go:67 debug success connect to DB:DBCat
+2021-02-13 21:23:29 srvguide/main.go:127 debug 1613222609941350000:2725 **************** Client :  127.0.0.1:53772  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:23:29 srvguide/main.go:129 debug 1613222609941350000:2725 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:23:29 srvguide/main.go:158 debug 1613222609941350000:2725 Response :  {"data":"","message":"Error 1054: Unknown column 'status' in 'order clause'","status":1}
+2021-02-13 21:23:29 srvguide/main.go:164 debug 1613222609941350000:2725 **************** Cost Duration :  19.754566ms  ****************
+
+2021-02-13 21:23:46 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:23:46 model/db.go:35 debug success connect to DB:race
+2021-02-13 21:23:46 model/db.go:67 debug success connect to DB:DBCat
+2021-02-13 21:23:50 srvguide/main.go:127 debug 1613222630648301000:1151 **************** Client :  127.0.0.1:53783  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:23:50 srvguide/main.go:129 debug 1613222630648301000:1151 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:23:50 srvguide/main.go:158 debug 1613222630648301000:1151 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":{"Time":"2021-02-12T23:39:40+08:00","Valid":true},"meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:23:50 srvguide/main.go:164 debug 1613222630648301000:1151 **************** Cost Duration :  16.256627ms  ****************
+
+2021-02-13 21:24:37 srvguide/main.go:127 debug 1613222677106280000:8637 **************** Client :  127.0.0.1:53799  [ POST ]  /rest/v1/racing  ****************
+2021-02-13 21:24:37 srvguide/main.go:129 debug 1613222677106280000:8637 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:24:37 srvguide/main.go:164 debug 1613222677106280000:8637 **************** Cost Duration :  674.954µs  ****************
+
+2021-02-13 21:24:39 srvguide/main.go:127 debug 1613222679509553000:7066 **************** Client :  127.0.0.1:53799  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:24:39 srvguide/main.go:129 debug 1613222679509553000:7066 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:24:39 srvguide/main.go:158 debug 1613222679509553000:7066 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":{"Time":"2021-02-12T23:39:40+08:00","Valid":true},"meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:24:39 srvguide/main.go:164 debug 1613222679509553000:7066 **************** Cost Duration :  12.605559ms  ****************
+
+2021-02-13 21:25:38 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:25:38 model/db.go:33 debug success connect to DB:race
+2021-02-13 21:25:38 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 21:25:45 srvguide/main.go:127 debug 1613222745970376000:5778 **************** Client :  127.0.0.1:53839  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:25:45 srvguide/main.go:129 debug 1613222745970376000:5778 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:25:45 srvguide/main.go:158 debug 1613222745970376000:5778 Response :  {"data":"","message":"sql: Scan error on column index 3, name \"advertised_start\": converting driver.Value type time.Time (\"2021-02-12 23:39:40 +0800 CST\") to a int64: invalid syntax","status":1}
+2021-02-13 21:25:45 srvguide/main.go:164 debug 1613222745970376000:5778 **************** Cost Duration :  9.396512ms  ****************
+
+2021-02-13 21:27:34 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:27:34 model/db.go:33 debug success connect to DB:race
+2021-02-13 21:27:34 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 21:27:41 srvguide/main.go:127 debug 1613222861735636000:4210 **************** Client :  127.0.0.1:53864  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:27:41 srvguide/main.go:129 debug 1613222861735636000:4210 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:27:41 srvguide/main.go:158 debug 1613222861735636000:4210 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":"2021-02-12T23:39:40+08:00","meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:27:41 srvguide/main.go:164 debug 1613222861735636000:4210 **************** Cost Duration :  10.610608ms  ****************
+
+2021-02-13 21:29:10 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:29:10 model/db.go:35 debug success connect to DB:race
+2021-02-13 21:29:10 model/db.go:67 debug success connect to DB:DBCat
+2021-02-13 21:29:17 srvguide/main.go:127 debug 1613222957334055000:5032 **************** Client :  127.0.0.1:53902  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:29:17 srvguide/main.go:129 debug 1613222957334055000:5032 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:29:17 srvguide/main.go:158 debug 1613222957334055000:5032 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":{"Time":"2021-02-12T23:39:40+08:00","Valid":true},"meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:29:17 srvguide/main.go:164 debug 1613222957334055000:5032 **************** Cost Duration :  13.220842ms  ****************
+
+2021-02-13 21:29:32 srvguide/main.go:127 debug 1613222972522278000:7095 **************** Client :  127.0.0.1:53902  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:29:32 srvguide/main.go:129 debug 1613222972522278000:7095 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:29:32 srvguide/main.go:158 debug 1613222972522278000:7095 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":{"Time":"2021-02-12T23:39:40+08:00","Valid":true},"meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:29:32 srvguide/main.go:164 debug 1613222972522278000:7095 **************** Cost Duration :  7.10734ms  ****************
+
+2021-02-13 21:29:42 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:29:42 model/db.go:33 debug success connect to DB:race
+2021-02-13 21:29:42 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 21:29:44 srvguide/main.go:127 debug 1613222984890110000:3266 **************** Client :  127.0.0.1:53922  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:29:44 srvguide/main.go:129 debug 1613222984890110000:3266 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:29:44 srvguide/main.go:158 debug 1613222984890110000:3266 Response :  {"data":"","message":"Error 1054: Unknown column 'status' in 'order clause'","status":1}
+2021-02-13 21:29:44 srvguide/main.go:164 debug 1613222984890110000:3266 **************** Cost Duration :  18.200883ms  ****************
+
+2021-02-13 21:29:59 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:29:59 model/db.go:33 debug success connect to DB:race
+2021-02-13 21:29:59 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 21:30:00 srvguide/main.go:127 debug 1613223000083035000:6202 **************** Client :  127.0.0.1:53935  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:30:00 srvguide/main.go:129 debug 1613223000083035000:6202 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:30:00 srvguide/main.go:158 debug 1613223000083035000:6202 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":"2021-02-12T23:39:40+08:00","meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:30:00 srvguide/main.go:164 debug 1613223000083035000:6202 **************** Cost Duration :  27.029461ms  ****************
+
+2021-02-13 21:30:03 srvguide/main.go:127 debug 1613223003135569000:1273 **************** Client :  127.0.0.1:53935  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:30:03 srvguide/main.go:129 debug 1613223003135569000:1273 request : [ /rest/v1/racing ]  map[]
+2021-02-13 21:30:03 srvguide/main.go:158 debug 1613223003135569000:1273 Response :  {"data":[{"race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12,"advertised_start":"2021-02-12T23:39:40+08:00","meeting_id":"hsfdhsgsdfgdsfsdfsdf"}],"message":"ok","status":0}
+2021-02-13 21:30:03 srvguide/main.go:164 debug 1613223003135569000:1273 **************** Cost Duration :  8.761517ms  ****************
+
+2021-02-13 21:58:28 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 21:58:28 model/db.go:33 debug success connect to DB:race
+2021-02-13 21:58:28 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 21:58:35 srvguide/main.go:127 debug 1613224715922251000:4158 **************** Client :  127.0.0.1:54715  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 21:58:35 srvguide/main.go:129 debug 1613224715922251000:4158 request : [ /rest/v1/racing ]  map[]
+2021-02-13 22:00:36 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:00:36 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:00:36 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:00:40 srvguide/main.go:127 debug 1613224840963583000:3640 **************** Client :  127.0.0.1:54753  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:00:40 srvguide/main.go:129 debug 1613224840963583000:3640 request : [ /rest/v1/racing ]  map[]
+2021-02-13 22:01:21 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:01:21 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:01:21 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:01:25 srvguide/main.go:127 debug 1613224885618114000:3048 **************** Client :  127.0.0.1:54763  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:01:25 srvguide/main.go:129 debug 1613224885618114000:3048 request : [ /rest/v1/racing ]  map[]
+2021-02-13 22:02:18 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:02:18 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:02:18 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:02:21 srvguide/main.go:127 debug 1613224941647259000:9170 **************** Client :  127.0.0.1:54796  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:02:21 srvguide/main.go:129 debug 1613224941647259000:9170 request : [ /rest/v1/racing ]  map[]
+2021-02-13 22:02:21 srvguide/main.go:158 debug 1613224941647259000:9170 Response :  {"data":{"category_race_map":"","race_summaries":[{"race_id":"fasfdsafasdafdsa","race_name":"test"}]},"message":"ok","status":0}
+2021-02-13 22:02:21 srvguide/main.go:164 debug 1613224941647259000:9170 **************** Cost Duration :  10.463503ms  ****************
+
+2021-02-13 22:02:33 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:02:33 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:02:33 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:02:36 srvguide/main.go:127 debug 1613224956454232000:8032 **************** Client :  127.0.0.1:54803  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:02:36 srvguide/main.go:129 debug 1613224956454232000:8032 request : [ /rest/v1/racing ]  map[]
+2021-02-13 22:02:36 srvguide/main.go:158 debug 1613224956454232000:8032 Response :  {"data":{"category_race_map":"","race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":0}
+2021-02-13 22:02:36 srvguide/main.go:164 debug 1613224956454232000:8032 **************** Cost Duration :  91.143405ms  ****************
+
+2021-02-13 22:37:46 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:37:46 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:37:46 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:38:10 srvguide/main.go:127 debug 1613227090587202000:6928 **************** Client :  127.0.0.1:55384  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:38:10 srvguide/main.go:129 debug 1613227090587202000:6928 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-13 22:38:10 srvguide/main.go:158 debug 1613227090587202000:6928 Response :  {"data":{"category_race_map":"","race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":0}
+2021-02-13 22:38:10 srvguide/main.go:164 debug 1613227090587202000:6928 **************** Cost Duration :  102.508624ms  ****************
+
+2021-02-13 22:54:46 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:54:46 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:54:46 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:54:55 srvguide/main.go:127 debug 1613228095504492000:6381 **************** Client :  127.0.0.1:55750  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:54:55 srvguide/main.go:129 debug 1613228095504492000:6381 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-13 22:54:55 srvguide/main.go:158 debug 1613228095504492000:6381 Response :  {"data":{"category_race_map":[{"race_ids":null},{"race_ids":null}],"race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":0}
+2021-02-13 22:54:55 srvguide/main.go:164 debug 1613228095504492000:6381 **************** Cost Duration :  102.164349ms  ****************
+
+2021-02-13 22:56:38 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:56:38 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:56:38 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:56:42 srvguide/main.go:127 debug 1613228202540709000:9649 **************** Client :  127.0.0.1:55786  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:56:42 srvguide/main.go:129 debug 1613228202540709000:9649 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-13 22:56:42 srvguide/main.go:158 debug 1613228202540709000:9649 Response :  {"data":{"category_race_map":[{"1":{"race_ids":null}},{"2":{"race_ids":null}}],"race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":0}
+2021-02-13 22:56:42 srvguide/main.go:164 debug 1613228202540709000:9649 **************** Cost Duration :  114.733049ms  ****************
+
+2021-02-13 22:58:11 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:58:11 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:58:11 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:58:15 srvguide/main.go:127 debug 1613228295328168000:5592 **************** Client :  127.0.0.1:55801  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:58:15 srvguide/main.go:129 debug 1613228295328168000:5592 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-13 22:59:21 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-13 22:59:21 model/db.go:33 debug success connect to DB:race
+2021-02-13 22:59:21 model/db.go:65 debug success connect to DB:DBCat
+2021-02-13 22:59:24 srvguide/main.go:127 debug 1613228364996428000:4875 **************** Client :  127.0.0.1:55824  [ GET ]  /rest/v1/racing  ****************
+2021-02-13 22:59:24 srvguide/main.go:129 debug 1613228364996428000:4875 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-13 22:59:25 srvguide/main.go:158 debug 1613228364996428000:4875 Response :  {"data":{"category_race_map":{"1":{"race_ids":null},"2":{"race_ids":null}},"race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":0}
+2021-02-13 22:59:25 srvguide/main.go:164 debug 1613228364996428000:4875 **************** Cost Duration :  111.75617ms  ****************
+
+2021-02-14 21:33:20 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:33:20 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:33:20 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:33:29 srvguide/main.go:127 debug 1613309609236836000:6358 **************** Client :  127.0.0.1:62938  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:33:29 srvguide/main.go:129 debug 1613309609236836000:6358 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2 ]  map[]
+2021-02-14 21:33:29 srvguide/main.go:158 debug 1613309609236836000:6358 Response :  {"data":"","message":"failed","status":1}
+2021-02-14 21:33:29 srvguide/main.go:164 debug 1613309609236836000:6358 **************** Cost Duration :  1.982314ms  ****************
+
+2021-02-14 21:33:48 srvguide/main.go:127 debug 1613309628502133000:8683 **************** Client :  127.0.0.1:62938  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:33:48 srvguide/main.go:129 debug 1613309628502133000:8683 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:38:43 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:38:43 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:38:43 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:38:48 srvguide/main.go:127 debug 1613309928248463000:7714 **************** Client :  127.0.0.1:63098  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:38:48 srvguide/main.go:129 debug 1613309928248463000:7714 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:39:02 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:39:02 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:39:02 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:39:06 srvguide/main.go:127 debug 1613309946050483000:4476 **************** Client :  127.0.0.1:63105  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:39:06 srvguide/main.go:129 debug 1613309946050483000:4476 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:39:22 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:39:22 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:39:22 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:39:24 srvguide/main.go:127 debug 1613309964828790000:7400 **************** Client :  127.0.0.1:63112  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:39:24 srvguide/main.go:129 debug 1613309964828790000:7400 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:40:39 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:40:39 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:40:39 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:40:44 srvguide/main.go:127 debug 1613310044717213000:6864 **************** Client :  127.0.0.1:63131  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:40:44 srvguide/main.go:129 debug 1613310044717213000:6864 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:44:39 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:44:39 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:44:39 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:44:45 srvguide/main.go:127 debug 1613310285772892000:8090 **************** Client :  127.0.0.1:63349  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:44:45 srvguide/main.go:129 debug 1613310285772892000:8090 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:45:37 srvguide/main.go:79 debug /Users/apple/go/src/srvguide <nil>
+2021-02-14 21:45:37 model/db.go:33 debug success connect to DB:race
+2021-02-14 21:45:37 model/db.go:65 debug success connect to DB:DBCat
+2021-02-14 21:45:43 srvguide/main.go:127 debug 1613310343186793000:7782 **************** Client :  127.0.0.1:63366  [ GET ]  /rest/v1/racing  ****************
+2021-02-14 21:45:43 srvguide/main.go:129 debug 1613310343186793000:7782 request : [ /rest/v1/racing?include_categories[]=1&include_categories[]=2&method=nextraces-category-group ]  map[]
+2021-02-14 21:45:43 srvguide/main.go:158 debug 1613310343186793000:7782 Response :  {"data":{"category_race_map":{"1":{"race_ids":null},"2":{"race_ids":null}},"race_summaries":[{"category_id":"","meeting_id":"hsfdhsgsdfgdsfsdfsdf","meeting_name":"","race_id":"fasfdsafasdafdsa","race_name":"test","race_number":12}]},"message":"ok","status":1}
+2021-02-14 21:45:43 srvguide/main.go:164 debug 1613310343186793000:7782 **************** Cost Duration :  70.348305ms  ****************
+
+2021-02-15 01:05:42 srvguide/main.go:79 debug C:\Users\IT\Desktop\go-tasks\submit\srvguide <nil>
+2021-02-15 01:05:42 model/db.go:19 debug error in open db
+2021-02-15 01:06:49 srvguide/main.go:79 debug C:\Users\IT\Desktop\go-tasks\submit\srvguide <nil>
+2021-02-15 01:06:49 model/db.go:19 debug error in open db
+2021-02-15 01:08:26 srvguide/main.go:79 debug C:\Users\IT\Desktop\go-tasks\submit\srvguide <nil>
+2021-02-15 01:08:27 model/db.go:33 debug success connect to DB:race
+2021-02-15 01:08:28 model/db.go:65 debug success connect to DB:DBCat
+2021-02-15 01:11:46 srvguide/main.go:127 debug 1613311906046364900:2174 **************** Client :  [::1]:65279  [ GET ]  /rest/v1/racing  ****************
+2021-02-15 01:11:46 srvguide/main.go:129 debug 1613311906046364900:2174 request : [ /rest/v1/racing?method=nextraces-categorygroup&count=5&include_categories=%5B%224a2788f8-e825-4d36-9894-efd4bafcfae%22%2C%229daef0d7-bf3c-4f50-921d-8e818c60fe61%22%2C%22161d9be2-e909-4326-8c2c-35ed71fb460b%22%5D ]  map[]
+2021-02-15 01:11:46 srvguide/main.go:158 debug 1613311906046364900:2174 Response :  {"data":"","message":"failed","status":1}
+2021-02-15 01:11:46 srvguide/main.go:164 debug 1613311906046364900:2174 **************** Cost Duration :  1.9984ms  ****************
+
+2021-02-15 01:11:46 srvguide/main.go:127 debug 1613311906310916700:2816 **************** Client :  [::1]:65279  [ GET ]  /favicon.ico  ****************
+2021-02-15 01:11:46 srvguide/main.go:129 debug 1613311906310916700:2816 request : [ /favicon.ico ]  map[]
+2021-02-15 01:11:46 srvguide/main.go:164 debug 1613311906310916700:2816 **************** Cost Duration :  1.9605ms  ****************
+
